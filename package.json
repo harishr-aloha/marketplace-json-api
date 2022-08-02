@@ -1,0 +1,19 @@
+{
+  "name": "marketplace-api",
+  "version": "1.0.0",
+  "description": "Test API for json server using heroku",
+  "main": " ",
+  "scripts": {
+    "start": "node server.js"
+  },
+ 
+  "author": "Harish R Aloha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harishr-aloha/marketplace-json-api/issues"
+  },
+  "homepage": "https://github.com/harishr-aloha/marketplace-json-api#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
